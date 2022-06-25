@@ -14,15 +14,15 @@
   <form action="/compose" method="post">
     
     <div class="mb-3">
-      <label class="" form-label>Title</label>
+      <label class="" form-label> <h4> <strong>Title</strong> </h4></label>
       <input type="text" name="postTitle" class="form-control" autocomplete="off">
 
     </div>
     <div class="mb-3">
-      <label class="form-label">Post</label>
+      <label class="form-label"><h4><strong>Post</strong> </h4></label>
       <textarea name="postBody" cols="30" rows="10" class="form-control"></textarea>
     </div>
-    <button type="submit" class="btn btn-primary">Publish</button>
+    <button style="border-radius: 50px; height: 50px; border-color: white;width: 100px;padding-top: 10px; margin-top: 25px;" type="submit" class="btn btn-danger">Publish</button>
 
   </form>
   <%- include("footer"); -%>
