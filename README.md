@@ -1,5 +1,5 @@
 # A-BLOG-WEBSITE
-A BLOG website in which the user can compose their blog and also reads other blog.
+A BlOG website in which the user can compose their blog and also reads other blog.
 
 
 Here is the sample video of Blog website
